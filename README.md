@@ -187,6 +187,9 @@ print(tok.decode(out[0], skip_special_tokens=True))
 * Compare loss curves & eval metrics on your project dashboard:
   `https://wandb.ai/<your-user>/llama3-chatdoctor`
 
+  ![image](https://github.com/user-attachments/assets/45cdfeb3-a63d-41d4-af25-1029d91a2295)
+
+
 ---
 
 ## Results
