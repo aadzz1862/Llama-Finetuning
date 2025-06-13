@@ -1,0 +1,9 @@
+cd "C:\Users\noush\Llama fine"
+
+@"
+*
+!.gitignore
+!*.ipynb
+!.ipynb_checkpoints/
+!wandb/
+"@ | Out-File -Encoding utf8 .gitignore
